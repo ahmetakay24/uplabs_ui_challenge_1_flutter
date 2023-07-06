@@ -40,12 +40,12 @@ class GetStartedButton extends StatelessWidget {
   Widget build(BuildContext context) {
     return ElevatedButton(
       onPressed: () {},
-      style: ElevatedButton.styleFrom(shape: const StadiumBorder()),
+      style: ElevatedButton.styleFrom(shape: const StadiumBorder(),backgroundColor: Colors.pink),
       child: Padding(
         padding: const EdgeInsets.only(left: 100, right: 100),
         child: Text(
           _getStartedButtonName,
-          style: Theme.of(context).textTheme.headlineMedium,
+          style: Theme.of(context).textTheme.headlineMedium?.copyWith(color: Colors.white),
         ),
       ),
     );
