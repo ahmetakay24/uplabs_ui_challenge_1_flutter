@@ -1,16 +1,5 @@
-# uplabs_1
 
-A new Flutter project.
+<img width="470" alt="Screenshot_208" src="https://github.com/ahmetakay24/uplabs_ui_challenge_1/assets/112816543/04a5d874-c837-4e01-b130-ad66dd3060d8">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2111](https://github.com/ahmetakay24/uplabs_ui_challenge_1/assets/112816543/cfa66cf3-99eb-4871-b918-89f8a9d71af0)
